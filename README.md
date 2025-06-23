@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello there! I'm Aewiyn,
 
-<!--
-**Aewiyn/aewiyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A.k.a. Mélissa, project manager & tech enthusiast from Switzerland 🇨🇭
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 I am a ...
+- Project Manager in public service
+- Computer Science student (starting Sept. 2025)
+- Lifelong learner
+- RPG/JRPG lover & gamer 🎮
+
+---
+
+## 🛠️ I’m currently learning
+- Python (I'm okay)
+- JavaScript (Currently learning)
+- C++ & C# (What the fuck)
+
+---
+
+## 🧠 Interests
+- Automation & productivity tools  
+- AI & Machine Learning
+- Human-centered digital services  
+
+---
+
+## ✨ In my free time
+I love exploring fantasy games and book, creating personal apps that will never come out and studying tech with a maté in hand.
