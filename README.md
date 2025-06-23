@@ -5,7 +5,7 @@ A.k.a. Mélissa, project manager & tech enthusiast from Switzerland 🇨🇭
 ---
 
 ## 👩‍💻 I am a ...
-- Project Manager in public service
+- Tech project Coordinator in public service
 - Computer Science student (starting Sept. 2025)
 - Lifelong learner
 - RPG/JRPG lover & gamer 🎮
