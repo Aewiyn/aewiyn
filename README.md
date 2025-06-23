@@ -27,4 +27,4 @@ A.k.a. Mélissa, tech enthusiast from Switzerland 🇨🇭
 ---
 
 ## ✨ In my free time
-I love exploring fantasy games and book, creating personal apps that will never come out and studying tech with a maté in hand.
+I love exploring fantasy games and books, creating personal apps that will never come out and studying tech with a maté in hand.
