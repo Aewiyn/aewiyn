@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Aewiyn,
 
-A.k.a. Mélissa, project manager & tech enthusiast from Switzerland 🇨🇭
+A.k.a. Mélissa, tech enthusiast from Switzerland 🇨🇭
 
 ---
 
