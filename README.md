@@ -14,7 +14,7 @@ A.k.a. Mélissa, tech enthusiast from Switzerland 🇨🇭
 
 ## 🛠️ I’m currently learning
 - Python (I'm okay)
-- JavaScript (Currently learning)
+- HTML / CSS / JavaScript (Currently learning)
 - C++ & C# (What the fuck)
 
 ---
